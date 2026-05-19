@@ -20,7 +20,7 @@ Hands-on exploration of transformers, Hugging Face workflows, LoRA/QLoRA, NLP pi
 
 
 
-\# Overview
+\## Overview
 
 
 
@@ -52,7 +52,7 @@ The goal of this repository is to build a deeper understanding of modern LLM eng
 
 
 
-\# Repository Structure
+\## Repository Structure
 
 
 
@@ -86,11 +86,11 @@ LLM-Engineering-Playground/
 
 
 
-\# Topics Explored
+\## Topics Explored
 
 
 
-\## Foundations
+\### Foundations
 
 \- Tokenization
 
@@ -104,7 +104,7 @@ LLM-Engineering-Playground/
 
 
 
-\## Generation
+\### Generation
 
 \- Text generation
 
@@ -118,7 +118,7 @@ LLM-Engineering-Playground/
 
 
 
-\## NLP Pipelines
+\### NLP Pipelines
 
 \- Named Entity Recognition (NER)
 
@@ -130,7 +130,7 @@ LLM-Engineering-Playground/
 
 
 
-\## PEFT / Fine-Tuning
+\### PEFT / Fine-Tuning
 
 \- LoRA basics
 
@@ -138,7 +138,7 @@ LLM-Engineering-Playground/
 
 
 
-\## RAG Foundations
+\### RAG Foundations
 
 \- PDF document loading
 
@@ -152,11 +152,11 @@ LLM-Engineering-Playground/
 
 
 
-\# Setup
+\## Setup
 
 
 
-\## Clone Repository
+\### Clone Repository
 
 
 
@@ -170,7 +170,7 @@ cd LLM-Engineering-Playground
 
 
 
-\## Create Virtual Environment
+\### Create Virtual Environment
 
 
 
@@ -182,11 +182,11 @@ python -m venv rag
 
 
 
-\## Activate Virtual Environment
+\### Activate Virtual Environment
 
 
 
-\### Windows
+\#### Windows
 
 ```bash
 
@@ -196,7 +196,7 @@ python -m venv rag
 
 
 
-\### Linux / Mac
+\#### Linux / Mac
 
 ```bash
 
@@ -206,7 +206,7 @@ source rag/bin/activate
 
 
 
-\## Install Dependencies
+\### Install Dependencies
 
 
 
@@ -222,11 +222,13 @@ pip install -r requirements.txt
 
 
 
-\# Future Additions
+\## Future Additions
 
 
 
 Planned future additions include:
+
+
 
 \- Advanced LoRA/QLoRA fine-tuning
 
@@ -248,11 +250,11 @@ Planned future additions include:
 
 
 
-\# Author
+\## Author
 
 
 
-Raksha Nagendra
+\### Raksha Nagendra
 
 
 
